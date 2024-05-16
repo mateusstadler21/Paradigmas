@@ -1,2 +1,2 @@
 # Paradigmas
-Exercicios feitos em sala de aula
+Esse portifolio e destinado para conter exercicios realizados em sala de aula.
